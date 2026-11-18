@@ -1,23 +1,39 @@
-# 💫 About Me:
-🔭 Nothing<br>👯 IoT<br>🌱 C++, CUDA, PyTorch<br>⚡ (arduino{c++} was first language)
+## Selected work
 
+<div align="center">
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=harsh982ag&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66164484%3Fv%3D4" alt="harsh982ag hero visual" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/natural_pics330/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-agarwal-796868320/) 
+<p><b>Freelance developer or consultant</b></p>
 
-# 💻 Tech Stack:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=izhaan-raza&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=izhaan-raza&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## The idea behind the work
 
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- <!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=izhaan-raza&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> Building useful things and learning in public.
 
---->
-[![](https://visitcount.itsvg.in/api?id=izhaan-raza&icon=7&color=0)](https://visitcount.itsvg.in)
+- 👥 **3** followers · **4** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/HARSH982AG/HARSH982">HARSH982</a></b></td><td>A selected project from this GitHub profile.<br/><sub>CSS · 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) `PLpgSQL`
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=harsh982ag&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66164484%3Fv%3D4" alt="harsh982ag social visual" />
+</p>
+
+<a href="https://github.com/harsh982ag">GitHub</a>
+
+<p align="center"><sub>Harsh  · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
